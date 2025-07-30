@@ -1,22 +1,25 @@
-# 🧠 Exercícios de Lógica de Programação
+# 🧠 Exercícios de Lógica de Programação com Python
 
-Este repositório contém uma coleção de **exercícios de lógica de programação** desenvolvidos para praticar estruturas básicas da computação e raciocínio lógico.
+Este repositório reúne diversos conjuntos de **exercícios práticos em Python**, voltados ao desenvolvimento do raciocínio lógico e domínio das estruturas básicas da linguagem. Ideal para iniciantes ou como material de revisão em cursos técnicos e introdutórios.
 
-## 📘 Conteúdo
-- 🟨 Operadores aritméticos e relacionais  
-- 🔁 Estruturas de repetição (`for`, `while`)  
-- 🔀 Condicionais (`if`, `else`, `elif`)  
-- 📦 Variáveis, tipos de dados e entrada/saída  
-- 🧩 Exercícios diversos para fixação dos conceitos
+## 📚 Conteúdo do Repositório
 
-## 🛠️ Tecnologias (opcional)
+### 1. Fundamentos e Estruturas Básicas – Exercícios 1 a 19
+Conceitos iniciais de lógica de programação, como entrada/saída de dados, operadores aritméticos, condicionais simples, laços de repetição e manipulação de listas e dicionários.
 
-- Linguagem usada: Phton
-- Ferramenta de desenvolvimento: Google Colab em formato PDF
+### 2. Entrada de Dados, Condicionais e Repetições – Exercícios 1 a 10
+Exercícios concentrados nas estruturas fundamentais: `input()`, `if`, `for`, `while`, operações matemáticas e controle de fluxo.
 
-## 📂 Organização
-Os arquivos estão organizados por tópicos ou aulas, facilitando o acompanhamento gradual dos conteúdos.
+### 3. Funções, Bibliotecas e Tratamento de Erros – Exercícios 20 a 35
+Uso de funções personalizadas, bibliotecas como `math`, `random`, `datetime`, manipulação de arquivos `.txt` e tratamento de exceções com `try-except`.
 
-## 📝 Licença
+### 4. Resolução de Problemas com Matrizes em Python – Exercícios 31 a 45
+Foco em listas aninhadas (matrizes). Também inclui cálculos aplicados.
 
-Uso educacional e livre para estudo. Sinta-se à vontade para clonar, testar e praticar!
+## 🛠️ Tecnologias Utilizadas
+- Linguagem: **Python 3**
+- Ambiente: **Jupyter Notebook** e **Google Colab**
+- Bibliotecas: `math`, `random`, `datetime`, `time`, `numpy`
+
+## 📄 Licença
+Conteúdo de uso educacional.
