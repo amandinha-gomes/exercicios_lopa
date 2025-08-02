@@ -21,5 +21,5 @@ Foco em listas aninhadas (matrizes). Também inclui cálculos aplicados.
 - Ambiente: **Jupyter Notebook** e **Google Colab**
 - Bibliotecas: `math`, `random`, `datetime`, `time`, `numpy`
 
-## 📄 Licença
+ >📄 
 Conteúdo de uso educacional.
